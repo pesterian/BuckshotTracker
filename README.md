@@ -4,6 +4,7 @@
 - **I will NOT make a gui version**
 
 # How to use
+- Download and extract the zip file
 - Run the .jar file
 - Enter the ammount of live rounds
 - Enter the ammount of blank rounds
