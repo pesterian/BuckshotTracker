@@ -1,7 +1,7 @@
 # BuckshotTracker
-Simple java command line program that helps you keep track of your shells and write notes about the current round.
-If someone manages to get my attention (it's pretty easy) to add something to this I will
-**I will NOT make a gui version**
+- Simple java command line program that helps you keep track of your shells and write notes about the current round.
+- If someone manages to get my attention (it's pretty easy) to add something to this I will
+- **I will NOT make a gui version**
 
 # How to use
 - Run the .jar file
